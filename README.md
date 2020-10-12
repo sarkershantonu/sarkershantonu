@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=sarkershantonu&color=brightgreen)
 
 * ⚡ I am a Full Stack Performance Engineer. 
-* 🛠 I break both Software & Hardware.
+* 🛠 I love to play with Software & Hardware.
 * ✍️ I write blogs at [A Test Developer's Blog](http://shantonu.com), Old Posts are in [A Test Developer's Blog](https://shantonusarker.blogspot.com/)
 * 🌱 I’m currently learning Kubernetes, DevOps, Software Architecture
 * 📘 My Reviewd Books are [Performance Testing With JMeter2.9](https://www.packtpub.com/product/performance-testing-with-jmeter-2-9/9781782165842) | [JMeter Cookbook](https://www.packtpub.com/product/jmeter-cookbook/9781783988280) | Java Thread Programming(https://www.rokomari.com/book/159071/java-thread-programming)
@@ -19,7 +19,8 @@
 [<img align="left" alt="shantonu.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shantonu.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/upwork.svg" />][upwork]
 
-
+<br />
+<br />
 ![Shantonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkershantonu&show_icons=true&theme=dracula)
 
 
