@@ -20,7 +20,7 @@
 [<img align="left" alt="shantonu.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/upwork.svg" />][upwork]
 
 <br />
-<br />
+
 ![Shantonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkershantonu&show_icons=true&theme=dracula)
 
 
