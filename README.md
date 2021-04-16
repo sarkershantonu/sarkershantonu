@@ -1,8 +1,8 @@
 ### Hello there, I am shantonu ! 👋
 
-![views](https://komarev.com/ghpvc/?username=sarkershantonu&color=brightgreen)
-[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=brightgreen&style=for-the-badge&message=Follow)](https://twitter.com/sarkershantonu)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=brightgreen&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/shantonusarker)
+![views](https://komarev.com/ghpvc/?username=sarkershantonu&color=white)
+[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/sarkershantonu)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/shantonusarker)
 
 * ⚡ I am a Full Stack SDET/Performance Engineer. 
 * 🛠 I love to play with Software & Hardware.
