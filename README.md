@@ -26,7 +26,7 @@
 <br />
 <br />
 
-![Shantonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkershantonu&show_icons=true&theme=dracula)
+![Shantonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkershantonu&show_icons=true&theme=Gradient)
 
 
 [website]: http://shantonu.com
