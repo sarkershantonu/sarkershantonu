@@ -17,7 +17,7 @@
 ![Shantonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkershantonu&show_icons=true&theme=Gradient)
 <br />
 ### Connect With Me
-[<img align="left" alt="shantonu.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/blogger.svg" />][website]
+[<img align="left" alt="shantonu.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][website]
 [<img align="left" alt="shantonu.com | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="shantonu.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shantonu.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
