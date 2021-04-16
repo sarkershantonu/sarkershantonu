@@ -1,4 +1,4 @@
-### Hello there, I am shantonu ! 👋
+### Welcome, I am shantonu ! 👋
 
 ![views](https://komarev.com/ghpvc/?username=sarkershantonu&color=brightgreen)
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/sarkershantonu)
@@ -24,10 +24,8 @@
 [<img align="left" alt="shantonu.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/upwork.svg" />][upwork]
 
 <br />
-<br />
 
 ![Shantonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkershantonu&show_icons=true&theme=Gradient)
-
 
 [website]: http://shantonu.com
 [twitter]: https://twitter.com/sarkershantonu
