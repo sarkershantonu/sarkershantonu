@@ -14,7 +14,7 @@
 * 📺 my [YouTube channel](https://www.youtube.com/c/ShantonuSarker)
 * 🎮 Raspberry Pi ZERO | Raspberry Pi 3B | E-5 2658V3 + 64GB+1TB SSD+32TB HDD+ GTX 1080Ti
 
-![Shantonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkershantonu&show_icons=true&theme=Gradient)
+![Shantonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkershantonu&show_icons=true&theme=drakula)
 <br />
 ### Connect With Me
 [<img align="left" alt="shantonu.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][website]
