@@ -12,7 +12,7 @@
 * 🎮 I maintain a Proxmox **HomeLab** for my own OpenVPN, Jenkins, GitLab, SeleniumRC, Plex Server, PiHole, DockerHub,Maven Repo, Mantis, DeepLearning LXC etc for dev & Testing. I love to use [Turnkey Linux](https://www.turnkeylinux.org/)
 * 💬 For any techinical review or question, please [email](mailto:sarker.shantonu@gmail.com) me and schedule a 15min call in [google calender](https://calendar.google.com/calendar)
 * 📺 my [YouTube channel](https://www.youtube.com/c/ShantonuSarker)
-* 🎮 Raspberry Pi ZERO | Raspberry Pi 3B | E-5 2658V3 + 64GB+1TB SSD+32TB HDD
+* 🎮 Raspberry Pi ZERO | Raspberry Pi 3B | Proxmox SUpermicro c7x99oce-f E-5 2699V3 + 64GB ECC +10TB SSD+13TB HDD
 
 <br />
 
